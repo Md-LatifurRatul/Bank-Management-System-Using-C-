@@ -1,4 +1,4 @@
-# This is full bank management project
+# Bank management project Using C++ and file handler
 
 # In this project for storing the information it uses file handling
 
